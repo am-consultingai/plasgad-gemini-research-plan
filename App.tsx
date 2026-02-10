@@ -8,7 +8,7 @@ import { researchData } from './data';
 const imagePairs = [
   {
     title: "זיהוי מוצלח (True Positive)",
-    original: "https://github.com/israelichamberit-cmd/images/blob/main/plsgad/TP.jpg?raw=true",
+    original: "https://github.com/israelichamberit-cmd/images/blob/main/plsgad/orig_TP.jpg?raw=true",
     processed: "https://github.com/israelichamberit-cmd/images/blob/main/plsgad/TP.jpg?raw=true"
   },
   {
